@@ -4,4 +4,4 @@ def add(x,y):
 
 #someone need to implement this
 def multiply(x,y):
-  return None
+  return x*y
